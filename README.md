@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Lunaa999
 - 👀 I’m interested in programming, linux
 - 🌱 I’m currently learning @rust-lang
-- 📫 How to reach me ![twitter](https://twitter.com/lunaa999_)
+- 📫 How to reach me
+  - [twitter](https://twitter.com/lunaa999_)
